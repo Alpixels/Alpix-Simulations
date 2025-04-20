@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : Water
 Simulation    : Water_T300K
 Status        : FAIL
-Runtime (s)   : 3
-Timestamp     : 2025-04-20 09:03:28
+Runtime (s)   : 2
+Timestamp     : 2025-04-20 16:12:22
