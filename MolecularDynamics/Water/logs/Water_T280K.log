@@ -1,6 +1,6 @@
 Technique     : MolecularDynamics
 Project       : Water
 Simulation    : Water_T280K
-Status        : FAIL
-Runtime (s)   : 0
-Timestamp     : 2025-04-20 09:02:18
+Status        : OK
+Runtime (s)   : 1623
+Timestamp     : 2025-04-20 17:34:49
