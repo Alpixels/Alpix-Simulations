@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : Water
 Simulation    : Water_T150K
 Status        : OK
-Runtime (s)   : 2053
-Timestamp     : 2025-04-20 03:09:39
+Runtime (s)   : 1609
+Timestamp     : 2025-04-20 23:25:12
