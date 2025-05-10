@@ -1,0 +1,6 @@
+Technique     : MolecularDynamics
+Project       : Water
+Simulation    : GlassyDynamics: Water_TIP4P_epsilon_bar0010_T150K
+Status        : OK
+Runtime (s)   : 195
+Timestamp     : 2025-05-10 17:14:31
