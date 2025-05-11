@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : Water
 Simulation    : Glassy dynamics: TIP4P-Epsilon_Bar0010_Properties
 Status        : OK
-Runtime (s)   : 9162
-Timestamp     : 2025-05-11 13:58:20
+Runtime (s)   : 9149
+Timestamp     : 2025-05-11 17:09:35
