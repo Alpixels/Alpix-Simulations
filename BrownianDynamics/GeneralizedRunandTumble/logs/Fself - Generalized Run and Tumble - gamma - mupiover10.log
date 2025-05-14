@@ -1,6 +1,6 @@
 Technique     : BrownianDynamics
 Project       : GeneralizedRunandTumble
 Simulation    : Fself - Generalized Run and Tumble - gamma - mupiover10
-Status        : FAIL
-Runtime (s)   : 240
-Timestamp     : 2025-05-14 09:36:01
+Status        : OK
+Runtime (s)   : 737
+Timestamp     : 2025-05-14 10:49:09
