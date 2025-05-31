@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : WaterAnomaly
 Simulation    : WaterAnomaly_TIP4P_2005_Bar0010
 Status        : OK
-Runtime (s)   : 788
-Timestamp     : 2025-05-30 22:31:58
+Runtime (s)   : 753
+Timestamp     : 2025-05-30 22:44:32
