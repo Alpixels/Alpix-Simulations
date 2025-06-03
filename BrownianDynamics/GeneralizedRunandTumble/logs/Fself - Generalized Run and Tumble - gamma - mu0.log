@@ -1,6 +1,6 @@
 Technique     : BrownianDynamics
 Project       : GeneralizedRunandTumble
 Simulation    : Fself - Generalized Run and Tumble - gamma - mu0
-Status        : OK
-Runtime (s)   : 771
-Timestamp     : 2025-05-23 22:42:52
+Status        : FAIL
+Runtime (s)   : 1273
+Timestamp     : 2025-06-03 09:31:55
