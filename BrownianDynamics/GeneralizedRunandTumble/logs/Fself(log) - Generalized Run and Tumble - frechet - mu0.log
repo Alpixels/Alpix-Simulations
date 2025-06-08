@@ -2,5 +2,5 @@ Technique     : BrownianDynamics
 Project       : GeneralizedRunandTumble
 Simulation    : Fself(log) - Generalized Run and Tumble - frechet - mu0
 Status        : OK
-Runtime (s)   : 3272
-Timestamp     : 2025-06-07 14:50:19
+Runtime (s)   : 13453
+Timestamp     : 2025-06-07 19:28:50
