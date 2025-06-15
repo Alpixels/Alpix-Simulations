@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : WaterAnomaly
 Simulation    : WaterAnomaly_TIP4P_2005_AngularPropertiesBar1000
 Status        : OK
-Runtime (s)   : 990
-Timestamp     : 2025-06-14 22:59:37
+Runtime (s)   : 985
+Timestamp     : 2025-06-14 23:16:04
