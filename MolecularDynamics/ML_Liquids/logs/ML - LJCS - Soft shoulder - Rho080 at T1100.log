@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : ML_Liquids
 Simulation    : ML - LJCS - Soft shoulder - Rho080 at T1100
 Status        : 
-Runtime (s)   : 2
-Timestamp     : 2025-07-12 07:30:32
+Runtime (s)   : 4911
+Timestamp     : 2025-07-14 07:11:56
