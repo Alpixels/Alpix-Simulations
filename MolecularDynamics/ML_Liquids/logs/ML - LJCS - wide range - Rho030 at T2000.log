@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : ML_Liquids
 Simulation    : ML - LJCS - wide range - Rho030 at T2000
 Status        : 
-Runtime (s)   : 1
-Timestamp     : 2025-07-15 14:24:28
+Runtime (s)   : 5800
+Timestamp     : 2025-07-16 00:33:58
