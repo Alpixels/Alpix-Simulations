@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : ML_WaterDiffusion
 Simulation    : WaterDiffusion_TIP4P_2005_Bar0300_T_K
 Status        : OK
-Runtime (s)   : 3960
-Timestamp     : 2025-07-18 02:39:07
+Runtime (s)   : 3979
+Timestamp     : 2025-07-18 03:45:28
