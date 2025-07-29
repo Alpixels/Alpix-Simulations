@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : ML_Liquids
 Simulation    : ML - LJCS - Wide nucleous - Rho010 at T1100
 Status        : 
-Runtime (s)   : 3
-Timestamp     : 2025-07-19 20:15:37
+Runtime (s)   : 1860
+Timestamp     : 2025-07-29 11:18:06
