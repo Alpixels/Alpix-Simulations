@@ -1,0 +1,6 @@
+Technique     : MolecularDynamics
+Project       : SurrogateWater
+Simulation    : WaterSurrogateModels_TIP4P_epsilon_T400K
+Status        : FAIL
+Runtime (s)   : 1
+Timestamp     : 2025-11-01 15:12:13
