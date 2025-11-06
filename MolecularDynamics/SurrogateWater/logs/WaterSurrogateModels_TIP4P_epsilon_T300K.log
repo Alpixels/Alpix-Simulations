@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : SurrogateWater
 Simulation    : WaterSurrogateModels_TIP4P_epsilon_T300K
 Status        : OK
-Runtime (s)   : 1318
-Timestamp     : 2025-11-05 12:27:30
+Runtime (s)   : 1393
+Timestamp     : 2025-11-06 02:18:11
