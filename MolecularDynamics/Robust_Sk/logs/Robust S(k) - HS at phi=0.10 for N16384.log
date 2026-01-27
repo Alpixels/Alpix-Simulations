@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : Robust_Sk
 Simulation    : Robust S(k) - HS at phi=0.10 for N16384
 Status        : OK
-Runtime (s)   : 1327
-Timestamp     : 2026-01-26 21:18:39
+Runtime (s)   : 1043
+Timestamp     : 2026-01-26 22:04:22
