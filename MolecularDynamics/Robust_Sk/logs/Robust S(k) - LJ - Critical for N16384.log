@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : Robust_Sk
 Simulation    : Robust S(k) - LJ - Critical for N16384
 Status        : OK
-Runtime (s)   : 15297
-Timestamp     : 2026-01-27 20:01:17
+Runtime (s)   : 35562
+Timestamp     : 2026-01-28 02:39:29
