@@ -1,0 +1,6 @@
+Technique     : MolecularDynamics
+Project       : WaterEntropy
+Simulation    : rdf_TIP4P_2005_Bar1000
+Status        : OK
+Runtime (s)   : 30606
+Timestamp     : 2026-05-13 03:47:39
