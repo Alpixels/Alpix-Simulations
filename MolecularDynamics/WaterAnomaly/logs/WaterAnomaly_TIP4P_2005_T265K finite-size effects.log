@@ -1,0 +1,6 @@
+Technique     : MolecularDynamics
+Project       : WaterAnomaly
+Simulation    : WaterAnomaly_TIP4P_2005_T265K finite-size effects
+Status        : OK
+Runtime (s)   : 5792
+Timestamp     : 2026-05-14 15:17:07
