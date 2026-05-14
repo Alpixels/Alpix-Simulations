@@ -1,6 +1,6 @@
 Technique     : MolecularDynamics
 Project       : WaterAnomaly
 Simulation    : WaterAnomaly_TIP4P_epsilon_T270K
-Status        : FAIL
-Runtime (s)   : 1
-Timestamp     : 2026-05-13 10:07:08
+Status        : OK
+Runtime (s)   : 1911
+Timestamp     : 2026-05-13 19:24:24
