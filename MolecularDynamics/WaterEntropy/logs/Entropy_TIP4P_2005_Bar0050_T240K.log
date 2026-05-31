@@ -1,6 +1,6 @@
 Technique     : MolecularDynamics
 Project       : WaterEntropy
 Simulation    : Entropy_TIP4P_2005_Bar0050_T240K
-Status        : FAIL
-Runtime (s)   : 11
-Timestamp     : 2026-05-30 22:01:14
+Status        : OK
+Runtime (s)   : 2849
+Timestamp     : 2026-05-30 23:35:50
