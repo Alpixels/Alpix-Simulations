@@ -1,6 +1,6 @@
 Technique     : MolecularDynamics
 Project       : WaterGlassTransition
 Simulation    : Water-TIP4P2005_Bar0001_Quench10Kns at 330 K
-Status        : FAIL
-Runtime (s)   : 0
-Timestamp     : 2026-06-05 19:44:52
+Status        : OK
+Runtime (s)   : 122
+Timestamp     : 2026-06-05 20:03:11
