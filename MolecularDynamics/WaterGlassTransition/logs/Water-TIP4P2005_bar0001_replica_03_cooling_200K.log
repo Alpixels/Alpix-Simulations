@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : WaterGlassTransition
 Simulation    : Water-TIP4P2005_bar0001_replica_03_cooling_200K
 Status        : OK
-Runtime (s)   : 151
-Timestamp     : 2026-06-07 01:31:10
+Runtime (s)   : 121
+Timestamp     : 2026-06-09 15:18:24
