@@ -1,6 +1,6 @@
 Technique     : MolecularDynamics
 Project       : WaterGlassTransition
 Simulation    : Water-TIP4P2005_bar0001_replica_02_heating_130K
-Status        : OK
-Runtime (s)   : 1633
-Timestamp     : 2026-06-12 16:58:57
+Status        : SKIPPED_DONE
+Runtime (s)   : 28
+Timestamp     : 2026-06-19 09:52:26
