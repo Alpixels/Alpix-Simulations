@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : CurvedSurface
 Simulation    : Janus_on_curvedsurface_R20_L10_tem020
 Status        : OK
-Runtime (s)   : 39
-Timestamp     : 2026-11-12 12:23:45
+Runtime (s)   : 77
+Timestamp     : 2026-11-12 12:25:04
