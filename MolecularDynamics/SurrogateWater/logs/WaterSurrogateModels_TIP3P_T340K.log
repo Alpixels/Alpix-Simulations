@@ -2,5 +2,5 @@ Technique     : MolecularDynamics
 Project       : SurrogateWater
 Simulation    : WaterSurrogateModels_TIP3P_T340K
 Status        : OK
-Runtime (s)   : 1233
-Timestamp     : 2026-11-12 18:13:10
+Runtime (s)   : 1180
+Timestamp     : 2026-11-13 01:20:21
