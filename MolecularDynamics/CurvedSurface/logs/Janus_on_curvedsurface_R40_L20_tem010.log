@@ -1,6 +1,6 @@
 Technique     : MolecularDynamics
 Project       : CurvedSurface
 Simulation    : Janus_on_curvedsurface_R40_L20_tem010
-Status        : FAIL
-Runtime (s)   : 4077
-Timestamp     : 2026-11-19 13:47:25
+Status        : OK
+Runtime (s)   : 9597
+Timestamp     : 2026-11-21 07:15:47
